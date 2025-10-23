@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: TallyTools
+Version: 0.1
+Summary: Convert Numerals into tally marks system.
+Author: Rishikesh Mahajan
+Requires-Python: >=3.8

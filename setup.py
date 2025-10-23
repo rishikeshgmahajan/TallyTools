@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="TallyTools",
-    version="0.0.1",
+    version="0.0.2",
     author="Rishikesh Mahajan",
     author_email="rishimahajan2410@gmail.com",
     description="A Python utility library for Tally operations.",

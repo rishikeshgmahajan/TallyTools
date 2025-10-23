@@ -1,4 +1,4 @@
-from TallyTools.to_int import to_int
+from .to_int import to_int
 
 __all__ = ["type_of", "is_tally"]
 

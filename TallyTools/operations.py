@@ -1,7 +1,7 @@
 
-from TallyTools.checkers import validate_tally, is_tally, type_of
-from TallyTools.to_int import to_int
-from TallyTools.to_tally import to_tally
+from .checkers import validate_tally, is_tally, type_of
+from .to_int import to_int
+from .to_tally import to_tally
 
 __all__ = ["min_group", "max_group", "count_groups", "list_groups", "TallyMark"]
 

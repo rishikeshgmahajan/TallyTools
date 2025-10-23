@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Python utility library for Tally operations.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your_username/TallyTools", 
+    url="https://github.com/rishikeshgmahajan/TallyTools", 
     license="MIT",
     packages=setuptools.find_packages(exclude=["test*"]),
     classifiers=[
@@ -22,4 +22,5 @@ setuptools.setup(
     python_requires='>=3.6',
     install_requires=[],
 )
+
 
